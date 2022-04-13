@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing with Data and tech related stuffs
 - 🌱 I’m currently learning all the things that needs to become a Data analytics & Data engineering
 - 💞️ I’m looking to collaborate on different data related project with teams
-- 📫 How to reach me www.linkedin.com/in/andyyuen77 / Discord: ANDYY#8171
+- 📫 How to reach me www.linkedin.com/in/andyyuen77 / add me in Discord: ANDYY#8171
 
 <!---
 Data-Noob-Andy/Data-Noob-Andy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
